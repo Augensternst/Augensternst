@@ -4,8 +4,8 @@
 - 🔭 Major in Software Engineering in Tongji University.
 - 🌱 Direction of machine intelligence.
 - 📫 How to reach me: Email:2252709@tongji.edu.cn    
-      QQ:3342675194     
-      Wechat:DFS_return_false    
+                       QQ:3342675194     
+                       Wechat:DFS_return_false    
 
 
 
