@@ -1,6 +1,6 @@
-### Hi I'm Nijika 👋
+### Hi I'm AwA486 👋
 
-- 👋 Hi, I’m @Nijika
+- 👋 Hi, I’m @AwA486
 - 🔭 Major in Software Engineering in Tongji University.
 - 🌱 Direction of machine intelligence.
 - 📫 How to reach me: Email:2252709@tongji.edu.cn    
