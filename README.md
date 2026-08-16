@@ -1,12 +1,15 @@
-### Hi I'm YANG XUANHE 👋
+### Hi, I'm Yang Xuanhe 👋
 
-- 👋 Hi, I’m YANG XUANHE
-- 🔭26FALL-NOW major in Artificial Intelligence in Nanyang Technological University,Singapore 
-- 🔭22FALL-26SUMMER major in Software Engineering(Machine Intelligence Track) in Tongji University,Shanghai CN
-- 🌱 Direction of large language model and agent.
-- 📫 How to reach me: Email:yangxuanhe04@gmail.com  
-                       QQ:3342675194     
-                       Wechat:DFS_return_false    
+- 🔭 **26FALL–NOW**: MSc in Artificial Intelligence, Nanyang Technological University, Singapore
+- 🔭 **22FALL–26SUMMER**: B.Eng in Software Engineering (Machine Intelligence Track), Tongji University, Shanghai, China
+- 🌱 **Currently**: Working through Stanford CS336 (*Language Modeling from Scratch*)
+- 🚀 **Up next**: Building projects in multi-agent systems and LLM RAG/SFT
+- 💬 **Research interests**: Large language models & agents
+- 🤝 **Open to**: Research collaboration and co-authoring papers — reach out if you're working in this space!
+- 📫 **Reach me**:
+  - Email: yangxuanhe04@gmail.com
+  - QQ: 3342675194
+  - WeChat: DFS_return_false 
 
 
 
